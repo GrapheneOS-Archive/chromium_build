@@ -2,8 +2,8 @@ target_os = "android"
 target_cpu = "arm64"
 
 android_channel = "stable"
-android_default_version_name = "73.0.3683.90"
-android_default_version_code = "368309052"
+android_default_version_name = "74.0.3729.112"
+android_default_version_code = "372911252"
 android_64bit_browser = true
 
 is_component_build = false
